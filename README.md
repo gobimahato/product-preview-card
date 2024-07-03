@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
-- [Live version]()
+- [Solution](https://github.com/gobimahato/product-preview-card)
+- [Live version](https://product-preview-card-gobi.netlify.app/)
 
 ### Built with
 
